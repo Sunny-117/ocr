@@ -1,0 +1,23 @@
+{
+  "name": "ocr",
+  "version": "1.0.0",
+  "description": "Identifying URLs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sunny-117/ocr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sunny-117/ocr/issues"
+  },
+  "homepage": "https://github.com/Sunny-117/ocr#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^15.0.0"
+  }
+}
